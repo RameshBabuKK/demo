@@ -1,14 +1,34 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "Employees": [
+    {
+      "userId": "A001",
+      "jobTitle": "UI Developer",
+      "firstName": "Ramesh Babu",
+      "lastName": "Kathiravan",
+      "employeeCode": "E1",
+      "city": "Bangalore",
+      "phoneNumber": "9902888997",
+      "emailAddress": "rameshbabumca@gmail.com"
+    },
+    {
+      "userId": "A002",
+      "jobTitle": "Java Developer",
+      "firstName": "Devid",
+      "lastName": "Rome",
+      "employeeCode": "E2",
+      "city": "CA",
+      "phoneNumber": "98982555455",
+      "emailAddress": "devid.rome@sample.com"
+    },
+    {
+      "userId": "A003",
+      "jobTitle": "UX Designeer",
+      "firstName": "tin",
+      "lastName": "jonson",
+      "employeeCode": "E3",
+      "region": "CA",
+      "phoneNumber": "5555845655",
+      "emailAddress": "tin.jonson@kinn.com"
+    }
+  ]
 }
