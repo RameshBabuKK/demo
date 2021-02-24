@@ -16,7 +16,7 @@
       "firstName": "Devid",
       "lastName": "Rome",
       "employeeCode": "E2",
-      "city": "CA",
+      "city": "Chennai",
       "phoneNumber": "98982555455",
       "emailAddress": "devid.rome@sample.com"
     },
@@ -26,7 +26,7 @@
       "firstName": "tin",
       "lastName": "jonson",
       "employeeCode": "E3",
-      "region": "CA",
+      "region": "Bangalore",
       "phoneNumber": "5555845655",
       "emailAddress": "tin.jonson@kinn.com"
     }
