@@ -29,6 +29,86 @@
       "city": "Bangalore",
       "phoneNumber": "5555845655",
       "emailAddress": "tin.jonson@kinn.com"
+    },
+    {
+      "userId": "A004",
+      "jobTitle": "UI Developer",
+      "firstName": "Tom",
+      "lastName": "Sanju",
+      "employeeCode": "E4",
+      "city": "Bangalore",
+      "phoneNumber": "655855454",
+      "emailAddress": "tom.sanjus@gets.com"
+    },
+	{
+      "userId": "A005",
+      "jobTitle": "Java Developer",
+      "firstName": "Viajy",
+      "lastName": "A",
+      "employeeCode": "E5",
+      "city": "Chennai",
+      "phoneNumber": "859674235",
+      "emailAddress": "a.vijays@yahoo.com"
+    },
+	{
+      "userId": "A006",
+      "jobTitle": "Java Developer",
+      "firstName": "Sree",
+      "lastName": "Sri",
+      "employeeCode": "E6",
+      "city": "Bangalore",
+      "phoneNumber": "989875655",
+      "emailAddress": "ss.sree@gmail.com"
+    },
+	{
+      "userId": "A007",
+      "jobTitle": "Java Developer",
+      "firstName": "Veni",
+      "lastName": "Gopal",
+      "employeeCode": "E7",
+      "city": "Bangalore",
+      "phoneNumber": "989658785",
+      "emailAddress": "veni.gopal@gmail.com"
+    },
+	{
+      "userId": "A008",
+      "jobTitle": "Java Developer",
+      "firstName": "Tara",
+      "lastName": "Ganesan",
+      "employeeCode": "E7",
+      "city": "Bangalore",
+      "phoneNumber": "9898758788",
+      "emailAddress": "tara.ganesan@gmail.com"
+    },	
+	{
+      "userId": "A009",
+      "jobTitle": "Tester",
+      "firstName": "Bopal",
+      "lastName": "Gopu",
+      "employeeCode": "E9",
+      "city": "Bangalore",
+      "phoneNumber": "9898758795",
+      "emailAddress": "bopal.gopu@gmail.com"
+    },
+	{
+      "userId": "A010",
+      "jobTitle": "Tester",
+      "firstName": "Raju",
+      "lastName": "Lokesh",
+      "employeeCode": "E10",
+      "city": "Bangalore",
+      "phoneNumber": "9898758711",
+      "emailAddress": "raju.lokesh@yahoo.com"
+    },
+	{
+      "userId": "A011",
+      "jobTitle": "Java devloper",
+      "firstName": "Meena",
+      "lastName": "Ramesh",
+      "employeeCode": "E11",
+      "city": "Bangalore",
+      "phoneNumber": "98987584785",
+      "emailAddress": "meena.ramesh@yahoo.com"
     }
   ]
 }
