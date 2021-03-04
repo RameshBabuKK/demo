@@ -8,7 +8,8 @@
       "employeeCode": "E1",
       "city": "Bangalore",
       "phoneNumber": "9902888997",
-      "emailAddress": "rameshbabumca@gmail.com"
+      "emailAddress": "rameshbabumca@gmail.com",
+	  "category": "Senior"
     },
     {
       "userId": "A002",
@@ -19,6 +20,7 @@
       "city": "Chennai",
       "phoneNumber": "98982555455",
       "emailAddress": "devid.rome@sample.com"
+	  "category": "Senior"
     },
     {
       "userId": "A003",
@@ -29,6 +31,7 @@
       "city": "Bangalore",
       "phoneNumber": "5555845655",
       "emailAddress": "tin.jonson@kinn.com"
+	  "category": "Senior"
     },
     {
       "userId": "A004",
@@ -39,6 +42,7 @@
       "city": "Bangalore",
       "phoneNumber": "655855454",
       "emailAddress": "tom.sanjus@gets.com"
+	  "category": "Junior"
     },
 	{
       "userId": "A005",
@@ -49,6 +53,7 @@
       "city": "Chennai",
       "phoneNumber": "859674235",
       "emailAddress": "a.vijays@yahoo.com"
+	  "category": "Junior"
     },
 	{
       "userId": "A006",
@@ -59,6 +64,7 @@
       "city": "Bangalore",
       "phoneNumber": "989875655",
       "emailAddress": "ss.sree@gmail.com"
+	  "category": "Senior"
     },
 	{
       "userId": "A007",
@@ -69,6 +75,7 @@
       "city": "Bangalore",
       "phoneNumber": "989658785",
       "emailAddress": "veni.gopal@gmail.com"
+	  "category": "Senior"
     },
 	{
       "userId": "A008",
@@ -79,6 +86,7 @@
       "city": "Bangalore",
       "phoneNumber": "9898758788",
       "emailAddress": "tara.ganesan@gmail.com"
+	  "category": "Senior"
     },	
 	{
       "userId": "A009",
@@ -89,6 +97,7 @@
       "city": "Bangalore",
       "phoneNumber": "9898758795",
       "emailAddress": "bopal.gopu@gmail.com"
+	  "category": "Junior"
     },
 	{
       "userId": "A010",
@@ -99,6 +108,7 @@
       "city": "Bangalore",
       "phoneNumber": "9898758711",
       "emailAddress": "raju.lokesh@yahoo.com"
+	  "category": "Senior"
     },
 	{
       "userId": "A011",
@@ -109,6 +119,29 @@
       "city": "Bangalore",
       "phoneNumber": "98987584785",
       "emailAddress": "meena.ramesh@yahoo.com"
+	  "category": "Junior"
+    },
+	{
+      "userId": "A012",
+      "jobTitle": "Java devloper",
+      "firstName": "Kiru",
+      "lastName": "Babu",
+      "employeeCode": "E12",
+      "city": "Bangalore",
+      "phoneNumber": "458769856",
+      "emailAddress": "kiru.babu@gmail.com"
+	  "category": "Junior"
+    },
+	{
+      "userId": "A013",
+      "jobTitle": "UI devloper",
+      "firstName": "Kiki",
+      "lastName": "Ram",
+      "employeeCode": "E13",
+      "city": "Chennai",
+      "phoneNumber": "568975698",
+      "emailAddress": "kiki.ram@gmail.com"
+	  "category": "Junior"
     }
   ]
 }
