@@ -19,7 +19,7 @@
       "employeeCode": "E2",
       "city": "Chennai",
       "phoneNumber": "98982555455",
-      "emailAddress": "devid.rome@sample.com"
+      "emailAddress": "devid.rome@sample.com",
 	  "category": "Senior"
     },
     {
@@ -30,7 +30,7 @@
       "employeeCode": "E3",
       "city": "Bangalore",
       "phoneNumber": "5555845655",
-      "emailAddress": "tin.jonson@kinn.com"
+      "emailAddress": "tin.jonson@kinn.com",
 	  "category": "Senior"
     },
     {
@@ -41,7 +41,7 @@
       "employeeCode": "E4",
       "city": "Bangalore",
       "phoneNumber": "655855454",
-      "emailAddress": "tom.sanjus@gets.com"
+      "emailAddress": "tom.sanjus@gets.com",
 	  "category": "Junior"
     },
 	{
@@ -52,7 +52,7 @@
       "employeeCode": "E5",
       "city": "Chennai",
       "phoneNumber": "859674235",
-      "emailAddress": "a.vijays@yahoo.com"
+      "emailAddress": "a.vijays@yahoo.com",
 	  "category": "Junior"
     },
 	{
@@ -63,7 +63,7 @@
       "employeeCode": "E6",
       "city": "Bangalore",
       "phoneNumber": "989875655",
-      "emailAddress": "ss.sree@gmail.com"
+      "emailAddress": "ss.sree@gmail.com",
 	  "category": "Senior"
     },
 	{
@@ -74,7 +74,7 @@
       "employeeCode": "E7",
       "city": "Bangalore",
       "phoneNumber": "989658785",
-      "emailAddress": "veni.gopal@gmail.com"
+      "emailAddress": "veni.gopal@gmail.com",
 	  "category": "Senior"
     },
 	{
@@ -85,7 +85,7 @@
       "employeeCode": "E7",
       "city": "Bangalore",
       "phoneNumber": "9898758788",
-      "emailAddress": "tara.ganesan@gmail.com"
+      "emailAddress": "tara.ganesan@gmail.com",
 	  "category": "Senior"
     },	
 	{
@@ -96,7 +96,7 @@
       "employeeCode": "E9",
       "city": "Bangalore",
       "phoneNumber": "9898758795",
-      "emailAddress": "bopal.gopu@gmail.com"
+      "emailAddress": "bopal.gopu@gmail.com",
 	  "category": "Junior"
     },
 	{
@@ -107,7 +107,7 @@
       "employeeCode": "E10",
       "city": "Bangalore",
       "phoneNumber": "9898758711",
-      "emailAddress": "raju.lokesh@yahoo.com"
+      "emailAddress": "raju.lokesh@yahoo.com",
 	  "category": "Senior"
     },
 	{
@@ -118,7 +118,7 @@
       "employeeCode": "E11",
       "city": "Bangalore",
       "phoneNumber": "98987584785",
-      "emailAddress": "meena.ramesh@yahoo.com"
+      "emailAddress": "meena.ramesh@yahoo.com",
 	  "category": "Junior"
     },
 	{
@@ -129,7 +129,7 @@
       "employeeCode": "E12",
       "city": "Bangalore",
       "phoneNumber": "458769856",
-      "emailAddress": "kiru.babu@gmail.com"
+      "emailAddress": "kiru.babu@gmail.com",
 	  "category": "Junior"
     },
 	{
@@ -140,7 +140,7 @@
       "employeeCode": "E13",
       "city": "Chennai",
       "phoneNumber": "568975698",
-      "emailAddress": "kiki.ram@gmail.com"
+      "emailAddress": "kiki.ram@gmail.com",
 	  "category": "Junior"
     }
   ]
